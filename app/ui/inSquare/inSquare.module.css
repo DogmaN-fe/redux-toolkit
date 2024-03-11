@@ -1,0 +1,12 @@
+.square{
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+}
+
+.count{
+    font-size: 100px;
+}
